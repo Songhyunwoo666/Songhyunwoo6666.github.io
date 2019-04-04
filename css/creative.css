@@ -47,7 +47,13 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
+.likelion{
+  font-family: 'Stylish', sans-serif;
+}
 
+.likelion_background{
+  background-color: rgb(16,52,166) important;
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -6909,7 +6915,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #303F9F;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
